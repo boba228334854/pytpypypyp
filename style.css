@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+header{
+  background-color: lightblue;
+  padding: 12px;  
+}
+h1{
+color: orange;
+text-align: center;
+}
+footer{
+background-color: rgb(250, 221, 238);
+padding: 7px;
+}
+ footer p{
+background-color: rgb(255, 255, 255);
+ }
+ nav{
+   background-color: rgb(69, 143, 81);
+   padding: 10px;
+
+ }
+ nav a{
+text-decoration: none;
+color: black;
+font-size: 20px;
+margin: 20px;
+ }
+ .egg {
+background-color: rgb(182, 102, 78);
+border-radius:15px ;
+padding: 5px;
+color: rgb(255, 255, 255);
+ }
+ h2{
+  color:blue ;
+ font-size: 25px; 
+ }
+ .bebra{
+   background-color: rgb(58, 150, 179);
+   color: rgb(255, 255, 255);
+   padding: 7px;
+   border-radius: 5px;
+   text-decoration:none;
+ }
